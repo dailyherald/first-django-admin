@@ -33,3 +33,11 @@ Views.py will connect with models.py to query the database and return the data t
 	"font_size": 14,
 	"draw_white_space": "all"
 }
+
+=================
+
+get_display - will allow you to get info from the models
+
+=================
+
+python manage.py check - checks your work so far
