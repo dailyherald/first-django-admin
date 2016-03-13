@@ -41,3 +41,18 @@ get_display - will allow you to get info from the models
 =================
 
 python manage.py check - checks your work so far
+
+=================
+
+python manage.py makemigrations academy
+
+creates the migration file (doesn't actually change the database) 0001_initial.py
+
+then python manage.py migrate
+
+prepares the instructions for changing the database
+
+=================
+
+There's a sqllite viewer in firefox
+
