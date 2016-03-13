@@ -54,5 +54,15 @@ prepares the instructions for changing the database
 
 =================
 
-There's a sqllite viewer in firefox
+There's a sqllite viewer in firefox!!!!
+
+=================
+
+making a folder a python folder, just put a file called __init__.py in it
+
+=================
+
+To make the filter list a dropdown
+
+http://stackoverflow.com/questions/5429276/how-to-change-the-django-admin-filter-to-use-a-dropdown-instead-of-list
 
